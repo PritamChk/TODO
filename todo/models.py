@@ -1,5 +1,7 @@
 from django.db import models
+from django.db.models.deletion import CASCADE
 from django.db.models.enums import Choices
+from django.db.models.fields import TextField
 
 class User(models.Model):
     USER_SEX_MALE = 'M'
@@ -17,6 +19,11 @@ class User(models.Model):
     gender = models.CharField( max_length=2, choices=USER_SEX, default=USER_SEX_MALE)
     phone_no = models.CharField(max_length=12)
     date_of_joining = models.DateTimeField(auto_now_add=True)
+
+class Todo(models.Model):
+    title = models.CharField(max_length= 200)
+    description = models.TextField()
+    created_at = models.DateTimeField(auto_now_add=True)
+    edited_at = models.DateTimeField(auto_now=True)
+    user = models.ForeignKey(User, on_delete=CASCADE)
     
-
-
