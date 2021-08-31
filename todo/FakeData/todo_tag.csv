@@ -1,0 +1,301 @@
+id,tag_title,user_tag_id
+1,Self Learn,63
+2,College,93
+3,Shopping,73
+4,College,22
+5,Self Learn,01
+6,Shopping,62
+7,Shopping,33
+8,Shopping,31
+9,Shopping,23
+10,Self Learn,61
+11,Shopping,01
+12,Shopping,53
+13,Shopping,91
+14,Self Learn,23
+15,Self Learn,63
+16,Shopping,11
+17,Shopping,32
+18,Shopping,63
+19,Shopping,63
+20,Shopping,71
+21,Shopping,92
+22,Bank,33
+23,Shopping,81
+24,Shopping,11
+25,Shopping,23
+26,Self Learn,41
+27,Shopping,12
+28,Self Learn,23
+29,Shopping,91
+30,Self Learn,33
+31,Self Learn,23
+32,Self Learn,33
+33,Shopping,73
+34,Self Learn,83
+35,Self Learn,92
+36,Bank,81
+37,Shopping,42
+38,Shopping,03
+39,Self Learn,72
+40,Self Learn,71
+41,Self Learn,73
+42,Self Learn,53
+43,Shopping,01
+44,Shopping,53
+45,Self Learn,12
+46,Self Learn,03
+47,Shopping,73
+48,Self Learn,43
+49,Shopping,23
+50,Self Learn,01
+51,Shopping,72
+52,Shopping,91
+53,Shopping,93
+54,Shopping,51
+55,Self Learn,03
+56,Shopping,83
+57,College,43
+58,Self Learn,53
+59,Shopping,02
+60,Bank,63
+61,Shopping,72
+62,Office,03
+63,Shopping,31
+64,Self Learn,73
+65,Bank,53
+66,Self Learn,03
+67,Self Learn,63
+68,Self Learn,42
+69,Bank,43
+70,College,22
+71,Shopping,32
+72,Shopping,31
+73,Office,42
+74,Office,73
+75,Shopping,61
+76,Self Learn,13
+77,Self Learn,23
+78,Shopping,83
+79,Shopping,73
+80,Bank,22
+81,Shopping,53
+82,Self Learn,51
+83,Office,53
+84,Shopping,63
+85,Shopping,23
+86,Office,51
+87,Shopping,23
+88,Bank,03
+89,Shopping,63
+90,Self Learn,72
+91,Shopping,53
+92,Bank,83
+93,College,91
+94,Bank,91
+95,Shopping,83
+96,Shopping,73
+97,Bank,33
+98,Shopping,93
+99,Self Learn,51
+100,Shopping,01
+101,Self Learn,62
+102,College,93
+103,Bank,72
+104,Self Learn,51
+105,Shopping,83
+106,Office,72
+107,Shopping,33
+108,Self Learn,93
+109,Bank,21
+110,Shopping,03
+111,Shopping,63
+112,Self Learn,01
+113,Shopping,91
+114,Shopping,01
+115,Bank,33
+116,Shopping,03
+117,Shopping,02
+118,Self Learn,63
+119,Self Learn,92
+120,Shopping,53
+121,College,73
+122,Shopping,11
+123,Shopping,83
+124,Bank,22
+125,Shopping,43
+126,Bank,01
+127,Bank,93
+128,Shopping,32
+129,Shopping,61
+130,Bank,73
+131,Bank,63
+132,Office,11
+133,Self Learn,51
+134,College,03
+135,Self Learn,01
+136,College,81
+137,Shopping,91
+138,Office,31
+139,Shopping,11
+140,Self Learn,21
+141,Shopping,93
+142,Shopping,81
+143,Shopping,92
+144,Shopping,22
+145,Shopping,33
+146,Bank,81
+147,Bank,03
+148,Shopping,41
+149,Self Learn,53
+150,Bank,71
+151,Bank,93
+152,Shopping,33
+153,Bank,33
+154,Shopping,13
+155,Shopping,63
+156,Shopping,03
+157,Shopping,72
+158,Self Learn,13
+159,Shopping,03
+160,Bank,72
+161,Self Learn,01
+162,Self Learn,61
+163,Self Learn,43
+164,College,32
+165,Shopping,63
+166,Self Learn,53
+167,Shopping,62
+168,Bank,83
+169,Self Learn,01
+170,Office,52
+171,Shopping,32
+172,Bank,42
+173,Shopping,83
+174,Shopping,21
+175,Self Learn,31
+176,Shopping,83
+177,Shopping,41
+178,College,73
+179,Shopping,43
+180,Self Learn,93
+181,Bank,31
+182,College,02
+183,Shopping,21
+184,Shopping,33
+185,Self Learn,41
+186,Shopping,53
+187,Shopping,52
+188,Self Learn,63
+189,Self Learn,72
+190,Shopping,31
+191,Shopping,81
+192,Shopping,22
+193,Bank,21
+194,Bank,52
+195,Bank,53
+196,Shopping,52
+197,Bank,53
+198,Self Learn,03
+199,Shopping,72
+200,Office,13
+201,Self Learn,82
+202,Self Learn,61
+203,Shopping,13
+204,Shopping,02
+205,College,61
+206,Bank,22
+207,Bank,52
+208,Shopping,43
+209,Self Learn,91
+210,Shopping,42
+211,Shopping,13
+212,Shopping,13
+213,Shopping,32
+214,Shopping,43
+215,Shopping,73
+216,Bank,93
+217,Shopping,13
+218,Bank,62
+219,Shopping,72
+220,Shopping,51
+221,Self Learn,61
+222,Shopping,53
+223,Bank,03
+224,Shopping,42
+225,Self Learn,62
+226,Shopping,93
+227,Self Learn,51
+228,Shopping,71
+229,Shopping,52
+230,Shopping,62
+231,Shopping,43
+232,Shopping,01
+233,Bank,02
+234,Self Learn,01
+235,College,02
+236,Bank,13
+237,College,71
+238,Shopping,63
+239,Bank,72
+240,Shopping,11
+241,Shopping,73
+242,Bank,43
+243,Shopping,73
+244,Self Learn,42
+245,Shopping,91
+246,Shopping,73
+247,Shopping,03
+248,Shopping,22
+249,Bank,12
+250,Self Learn,33
+251,Shopping,83
+252,Shopping,93
+253,Self Learn,63
+254,Shopping,23
+255,Self Learn,32
+256,Self Learn,71
+257,Self Learn,81
+258,Shopping,81
+259,Self Learn,63
+260,Shopping,52
+261,Shopping,22
+262,Shopping,33
+263,Self Learn,43
+264,Shopping,41
+265,Shopping,83
+266,Self Learn,63
+267,Shopping,81
+268,Shopping,63
+269,Bank,03
+270,Self Learn,73
+271,Self Learn,03
+272,Shopping,71
+273,Bank,43
+274,Shopping,71
+275,College,31
+276,Bank,01
+277,Self Learn,73
+278,Shopping,91
+279,Shopping,43
+280,Office,32
+281,Shopping,63
+282,Shopping,31
+283,Shopping,52
+284,Bank,22
+285,Bank,93
+286,Self Learn,13
+287,Shopping,53
+288,Self Learn,73
+289,Bank,63
+290,Shopping,02
+291,Self Learn,73
+292,Shopping,43
+293,Shopping,52
+294,Shopping,63
+295,Self Learn,11
+296,Self Learn,43
+297,Shopping,32
+298,Shopping,61
+299,Self Learn,03
+300,Shopping,63
