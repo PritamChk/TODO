@@ -26,4 +26,9 @@ class Todo(models.Model):
     created_at = models.DateTimeField(auto_now_add=True)
     edited_at = models.DateTimeField(auto_now=True)
     user = models.ForeignKey(User, on_delete=CASCADE)
+    tag = models.ManyToManyField("Tag" )
+
+class Tag(models.Model):
+    tag_title = models.CharField(max_length= 50)
+    user_tag = models.ForeignKey(User , on_delete= CASCADE )
     
