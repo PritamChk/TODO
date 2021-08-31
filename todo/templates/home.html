@@ -7,6 +7,12 @@
     <title>Home</title>
 </head>
 <body>
-    Welcome to Todo 
+    
+    {% for detail in details  %}
+       <li>
+           {{ detail }}
+       </li> 
+    {% endfor %}
+         
 </body>
 </html>
