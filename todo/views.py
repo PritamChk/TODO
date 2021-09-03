@@ -2,7 +2,14 @@ from django.shortcuts import render
 from .models import User
 
 def login(request):
-    return render(request,"login.html")
+    if request.method == "POST":
+        user_name = request.POST["user_name"]
+        password = request.POST["user_password"]
+        if User.objects.filter(user_name=user_name,password=password).exists():
+            user=User.objects.get(user_name=user_name)
+            return render(request,"home.html",{"user":user})
+    else:
+        return render(request,"login.html")
 
 def Registration(request):
     if request.method == "POST":
@@ -27,3 +34,4 @@ def Registration(request):
             return render(request,"home.html", {"details":[first_name,last_name,user_name,password,phone,sex]})
     else:
         return render(request,"login.html")
+

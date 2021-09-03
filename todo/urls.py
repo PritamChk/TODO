@@ -4,5 +4,6 @@ from django.urls import path
 
 urlpatterns = [
     path('home/',login),
-    path('home/registration/',Registration)
+    path('home/registration/',Registration),
+    path('home/login/',login)
 ]

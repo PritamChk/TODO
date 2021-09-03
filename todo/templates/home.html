@@ -13,6 +13,21 @@
            {{ detail }}
        </li> 
     {% endfor %}
+    
+    {% if user %}
+        <ul>
+            <li>
+                {{ user.first_name }}
+            </li>
+            <li>
+                {{ user.phone_no }}
+            </li>
+        
+        </ul>
+        
+    {% endif %}
+        
+
          
 </body>
 </html>
